@@ -1,7 +1,7 @@
-/*执行事件*/
+/*Execution Environment*/
 $(function() {
 
-    //打印
+    //Print
     $('.button_print').click(function(){
         $('.main').print({
         addGlobalStyles : true,
