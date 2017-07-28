@@ -1119,6 +1119,13 @@ you can use the generic selector below, but it's slower:
 	content: "\e0e6";
 }
 
+.icon_git:before {
+	content: "\e0ce";
+}
+
+.icon_linkedin:before {
+	content: "\e0b4";
+}
 
 	.glyph {
 		float: left;
