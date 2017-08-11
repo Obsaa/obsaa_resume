@@ -8,7 +8,7 @@ $(function() {
         mediaPrint : true
         });
     });
-
+    
     //animate avatar info
     $('.avatar_pic,.tel_me').click(function(){
         $('.tip_avatar_bg').show().transition({ 
@@ -177,6 +177,14 @@ $(function() {
     //close sound help
     $('.close_help').click(function(){
         soundhelpClose();
+    });
+    
+	//typewriter effect
+	('#typed').typeIt({
+         strings: ["This is a great string.", "But here is a better one."],
+         speed: 50,
+         breakLines: false,
+         autoStart: false
     });
 
 });
