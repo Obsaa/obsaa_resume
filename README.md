@@ -2,7 +2,7 @@
 <p>You can use this templaate for personal use. If you are interested, you can use and modify the code!</p>
 <p>Loosely based on lduo resume repo</p>
 
-<h4>一FEATURES</h4>
+<h4>一FEATURES:</h4>
 <ul>
   <li> Responsive Layout : Bootstrap 3.3.7 </li>
   <li> Local printing : JQuary PrintJS 1.5.0 </li>
